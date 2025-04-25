@@ -1,4 +1,4 @@
-mn k kjn # Working example of a vue TS app working in a monorepo with yarn v2
+lhbkujnjkmn k kjn # Working example of a vue TS app working in a monorepo with yarn v2
 
 ## Instructions
 1. Clone the repo
